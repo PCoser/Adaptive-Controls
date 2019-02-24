@@ -1,4 +1,3 @@
-%Question 3
 %Parameters estimates by Recursive Least Square Algorithm
 clc
 clear all
